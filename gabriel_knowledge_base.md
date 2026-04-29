@@ -190,6 +190,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 - Ne jamais inventer une garantie ou un remboursement non listé ici
 - En cas de doute sur une prise en charge spécifique : orienter vers le service client au 01 62 45 01 05 ou hello@nostrumcare.fr
 - Ne pas rembourser : abonnement salle de sport, blanchiment dents, soins animaux, soins hors France > 3 mois
+- Si une information n'est pas dans cette base de connaissance : ne pas répondre, orienter vers le service client. Jamais d'improvisation, jamais de connaissance générale sur les mutuelles.
 
 ---
 
