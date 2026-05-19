@@ -1,5 +1,4 @@
 # BASE DE CONNAISSANCE — GABRIEL / NOSTRUM CARE
-# Version : V1 — Optimisée pour injection LLM
 # Usage : System prompt ou fichier chargé dynamiquement
 # À mettre à jour quand les offres, tarifs ou règles métier évoluent
 
@@ -7,7 +6,9 @@
 
 ## 1. QU'EST-CE QUE NOSTRUM CARE
 
-Nostrum Care est une mutuelle santé (pas une assurance) 100% mobile, créée en 2020, à destination des indépendants, freelances et auto-entrepreneurs.
+Nostrum Care est un intermédiaire qui propose une mutuelle santé (pas une assurance) 100% mobile, créée en 2020, à destination des indépendants, freelances, particuliers et auto-entrepreneurs. Nostrum Care distribue Nostrum Vita, une mutuelle santé régie 
+par le Code de la mutualité, à but non lucratif.
+Les cotisations servent exclusivement aux adhérents.
 
 Statut juridique : mutuelle régie par le Code de la mutualité. But non lucratif. Aucun actionnaire. Les cotisations servent exclusivement aux adhérents. Les excédents sont réinvestis au service des adhérents (≠ Alan, qui est une assurance avec actionnaires et logique de profit).
 
@@ -205,4 +206,4 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 
 ---
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : à compléter à chaque modification
+# Dernière mise à jour : 19/05/2026
