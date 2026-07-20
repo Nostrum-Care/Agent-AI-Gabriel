@@ -464,4 +464,4 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 
 ---
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : 20/07/2026 — ajout section 7B (grille tarifaire indicative par âge, Zone 1)
+# Dernière mise à jour : 20/07/2026 — ajout section 7B (grille tarifaire indicative par âge)
