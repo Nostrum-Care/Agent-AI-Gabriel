@@ -87,6 +87,101 @@ Plafond par facture : 50€ (Découverte) / 75€ (Bronze, Silver, Gold)
 
 ---
 
+## 3B. TABLEAU DE GARANTIES DÉTAILLÉ — GRILLE CHIFFRÉE PAR FORMULE (2026)
+
+Source : Tableau de garanties officiel Nostrum Vita Santé 2026. Ces chiffres sont la seule source autorisée pour un chiffrage précis — ne jamais en inventer d'autres, ne jamais extrapoler.
+Sauf mention contraire, les pourcentages s'entendent en % de la Base de Remboursement du Régime Obligatoire (RO), remboursement RO inclus.
+
+### Hospitalisation
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Forfait journalier (chirurgie, médecine, psychiatrie, rééducation) | Frais réels | Frais réels | Frais réels | Frais réels |
+| Honoraires signataire OPTAM/OPTAM-CO | 100% | 150% | 200% | 300% |
+| Honoraires non-signataire OPTAM/OPTAM-CO | 100% | 130% | 180% | 200% |
+| Frais de séjour | 100% | 100% | 100% | 100% |
+| Chambre particulière avec hébergement | Non couvert | 50€/j (45j max) | 60€/j (60j max) | 60€/j (60j max) |
+| Chambre particulière sans hébergement (10j/an max) | Non couvert | 7€/j | 7€/j | 7€/j |
+| Accompagnement enfant <16 ans / adulte >65 ans | Non couvert | 55€/j | 65€/j | 80€/j |
+
+Formule Découverte, chambre particulière : contrairement aux autres, limitée à 40€/j sur 30 jours max (pas "non couvert").
+
+### Soins courants
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Auxiliaires médicaux | 100% | 150% | 200% | 300% |
+| Consultations généraliste/spécialiste signataire OPTAM | 100% | 125% | 200% | 300% |
+| Consultations généraliste/spécialiste non-signataire OPTAM | 100% | 105% | 180% | 200% |
+| Actes techniques signataire OPTAM | 100% | 150% | 200% | 300% |
+| Actes techniques non-signataire OPTAM | 100% | 130% | 180% | 200% |
+| Radiologie signataire OPTAM | 100% | 150% | 200% | 300% |
+| Radiologie non-signataire OPTAM | 100% | 130% | 180% | 200% |
+| Analyses de laboratoire | 100% | 150% | 200% | 300% |
+| Médicaments (tous taux SS), matériel médical, transport, cure thermale (soins) | 100% | 100% | 100% | 100% |
+
+### Dentaire (forfait annuel par bénéficiaire)
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Soins, actes d'imagerie et de chirurgie | 100% | 100% | 100% | 100% |
+| Inlays, Onlays, Overlays | 100% | 180% | 180% | 180% |
+| Prothèses 100% Santé (panier RO) | Frais engagés | Frais engagés | Frais engagés | Frais engagés |
+| Prothèses hors panier 100% Santé | 100% | 210% | 260% | 330% |
+| Inlays-Core | 100% | 200% | 200% | 200% |
+| Prothèses non remboursables (2x/an) | Non couvert | 70€ | 70€ | 70€ |
+| Orthodontie remboursée par le RO | 100% | 150% | 200% | 300% |
+| Orthodontie non remboursée par le RO (forfait annuel) | Non couvert | 100€ | 250€ | 300€ |
+
+Plafond annuel dentaire hors panier 100% santé (prothèses + implantologie + parodontologie confondues, par bénéficiaire) :
+- Année 1 : Découverte non couvert / Bronze 1 000€ / Silver 1 500€ / Gold 1 700€
+- Année 2 et suivantes : Découverte non couvert / Bronze 1 500€ / Silver 2 000€ / Gold 2 000€
+
+Implantologie/parodontologie (inclus dans le plafond ci-dessus) : plafond annuel implants Découverte non couvert / Bronze 150€ / Silver 200€ / Gold 250€ (150-250€ par implant, 1 intervention max tous les 5 ans par dent). Maladies parodontales : 100€ par acte, plafond 100€/an (Bronze/Silver/Gold), non couvert en Découverte.
+
+### Optique
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Équipements Classe A (100% Santé) | Reste à charge nul | Reste à charge nul | Reste à charge nul | Reste à charge nul |
+| Monture Classe B | Non couvert | 60€ | 80€ | 100€ |
+| Verres simples (Classe B, la paire) | Non couvert | 90€ | 110€ | 170€ |
+| Verres complexes (Classe B, la paire) | Non couvert | 210€ | 240€ | 360€ |
+| Verres très complexes (Classe B, la paire) | Non couvert | 210€ | 240€ | 360€ |
+| Forfait lentilles (remboursées ou non) | 25€ | 100€ | 140€ | 150€ |
+| Chirurgie/implant œil (non remboursé RO) | Non couvert | 100€/œil | 150€/œil | 200€/œil |
+
+⚠️ Le renouvellement d'un équipement optique Classe A est encadré par la réglementation (généralement tous les 2 ans pour un adulte). Ne jamais donner de délai précis sans vérifier — renvoyer vers le service client en cas de doute.
+
+### Aides auditives
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Classe I (100% Santé, reste à charge nul) | Frais engagés | Frais engagés | Frais engagés | Frais engagés |
+| Classe II (prix libre) | 100% | 150% | 200% | 250% |
+
+### Bien-être — plafond global annuel (médicaments non remboursés SS, densitométrie, cure thermale)
+| Poste | Découverte | Bronze | Silver | Gold |
+|---|---|---|---|---|
+| Plafond global annuel de cette section | 150€ | 200€ | 250€ | 300€ |
+| Médicaments non remboursés SS (par facture, dans la limite du plafond annuel) | 50€/facture, max 100€/an | 75€/facture, max 125€/an | 75€/facture, max 150€/an | 75€/facture, max 175€/an |
+| Densitométrie osseuse non remboursée RO | 30€ | 40€ | 50€ | 50€ |
+| Cure thermale (hébergement + transport) | 100€ | 150€ | 200€ | 200€ |
+
+Rappel : ce plafond est distinct de la Garantie A (psy/médecines douces, section 3) et de la Garantie B (produits bien-être, section 3), qui ont leurs propres plafonds déjà détaillés plus haut.
+
+### Services et garanties incluses dans toutes les formules (identiques quelle que soit la formule)
+- Dépendance totale : capital de 1 000€
+- Accident (décès accidentel) : capital de 750€
+- Forfait connectivité en hospitalisation (TV/téléphone/internet, 20j/an max) : 5€/jour
+- Inclus sans coût additionnel, toutes formules : téléconsultation, protection juridique, second avis médical, club avantages, garantie coups durs, service tchat, assistance à domicile, service Visible Patient, soins à l'étranger (< 3 mois, sous conditions — voir section 3)
+
+### Garanties facultatives (options à la carte, à ajouter en supplément — nécessitent un devis séparé, ne pas présenter comme incluses dans une formule standard)
+Ces garanties existent sur 7 niveaux ; ne jamais donner un montant sans préciser qu'il s'agit d'une option payante en plus de la formule santé :
+- IJHA (indemnités journalières hospitalisation accidentelle, 1 an max) : de 15€/jour (niveau 1) à 150€/jour (niveau 6)
+- CDA (capital décès / PTIA accidentel) : 15 000€ fixe, tous niveaux
+- MPPH adulte (indemnités journalières hospitalisation toutes causes) : de 15€/jour (niveau 1) à 100€/jour (niveau 7)
+- MPPH enfant mineur (toutes causes) : de 7,50€/jour (niveau 1) à 50€/jour (niveau 7)
+
+⚠️ Si un prospect demande le détail précis d'une garantie facultative (quel niveau, quel tarif) : orienter vers le conseiller ou le service client, ces options nécessitent un devis dédié.
+
+---
+
 ## 4. LISTE COMPLÈTE DES MÉDECINES DOUCES REMBOURSÉES (+40 spécialités)
 
 - Psychologie, Psychothérapie, Sexothérapie/Sexologie, Psychanalyse (si réalisée par psychologue hors Mon Soutien Psy), Thérapie comportementale et cognitive (TCC), PNL, Hypnose, Sophrologie, Méditation, Psychomotricité
@@ -207,7 +302,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 - Ne pas mentionner le CBD dans un contexte de communication externe / publicité / collaboration (usage interne ou réponse directe à une question client uniquement)
 - Ne pas promettre des tarifs précis sans devis (dépend de l'âge et de la formule)
 - Ne jamais inventer une garantie ou un remboursement non listé ici
-- Ne jamais comparer chiffres à l'appui avec une mutuelle concurrente nommément
+- Ne jamais comparer chiffres à l'appui avec une mutuelle concurrente nommément, SAUF dans le flux de comparaison explicitement déclenché quand le prospect a demandé une comparaison ET communiqué lui-même son assureur/formule actuel. Dans ce cas précis uniquement : suivre strictement les règles de la section "PHASE COMPARAISON CONCURRENTIELLE" du prompt système (confirmation obligatoire du tarif trouvé avant tout comparatif chiffré, jamais de dénigrement, jamais de chiffre Nostrum Vita hors de cette base de connaissance)
 - Ne jamais traiter de données sensibles (numéro de sécu, informations médicales détaillées, RIB) — renvoyer vers le conseiller ou le service client
 - Ne jamais calculer ou estimer un montant précis de déduction Madelin pour le prospect — renvoyer vers son comptable ou le service client
 - En cas de doute sur une prise en charge spécifique : orienter vers le service client au 01 62 45 01 05 ou hello@nostrumcare.fr
@@ -258,4 +353,4 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 
 ---
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : 30/06/2026
+# Dernière mise à jour : 20/07/2026 — ajout section 3B (grille de garanties chiffrée complète)
