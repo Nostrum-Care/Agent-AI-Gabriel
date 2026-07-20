@@ -246,7 +246,9 @@ Pour un devis précis : https://nostrumcare.fr/mutuelle/ ou appel au 01 62 45 01
 ## 7B. GRILLE TARIFAIRE INDICATIVE PAR ÂGE (Zone 1)
 
 Source : fiche technique MM-A20S26-25_251216, tarifs mensuels TTC en vigueur au 01/09/2025, Zone géographique 1.
-⚠️ Cette grille correspond à la Zone 1 uniquement (Paris, Bouches-du-Rhône, Nord, Gironde, Pyrénées-Atlantiques et 31 autres départements urbains). Pour un prospect situé dans un autre département (Zone 2), le tarif réel est généralement inférieur de 15 à 20% à celui donné par cette grille — à mentionner si le prospect indique une autre région. Dans le doute, présente toujours le chiffre comme une estimation, jamais un tarif garanti.
+⚠️ Cette grille correspond à la Zone 1 uniquement (Paris, Bouches-du-Rhône, Nord, Gironde, Pyrénées-Atlantiques et 31 autres départements urbains). Pour un prospect situé dans un autre département (Zone 2), le tarif réel est généralement inférieur de 15 à 20% à celui donné par cette grille.
+
+Cette nuance de zone géographique est une information de calcul INTERNE, à usage de Gabriel uniquement. NE JAMAIS mentionner au prospect les mots "Zone 1", "Zone 2", ni citer des départements ou des villes comme référence tarifaire — le prospect n'a aucune idée de ce que c'est et ça n'apporte rien commercialement, ça ne fait que semer la confusion (surtout s'il n'habite pas dans les villes citées). Dans la conversation, exprime simplement l'incertitude en langage courant : "c'est une estimation, le tarif exact peut varier selon votre situation" — sans jamais expliquer pourquoi.
 
 Tarif de base mensuel par âge et par formule (en euros, avant surcotisations obligatoires ci-dessous) :
 
