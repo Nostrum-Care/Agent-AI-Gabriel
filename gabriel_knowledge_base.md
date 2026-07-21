@@ -397,7 +397,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 → Correct, pas labellisée (pas de participation employeur automatique). Mais les contrats labellisés offrent souvent des garanties moins complètes — notamment sur le bien-être. Nostrum Care peut fournir une attestation employeur (participation employeur possible jusqu'à 15€) ; certains employeurs choisissent de participer malgré l'absence de label.
 
 **"Je réfléchis encore"**
-→ Tout à fait normal. La décision mérite réflexion. Si une question se pose entre-temps, je suis disponible. Et si vous préférez un point rapide avec un conseiller pour y voir plus clair : https://meetings-eu1.hubspot.com/conseil
+→ Tout à fait normal. La décision mérite réflexion. Si une question se pose entre-temps, je suis disponible. Et si vous préférez un point rapide avec un conseiller pour y voir plus clair : https://eu1.hubs.ly/H0x4gkS0
 
 **"Je n'ai pas le temps"**
 → Un RDV avec un conseiller dure 15 minutes, vous choisissez le créneau. C'est sans engagement et gratuit.
@@ -427,7 +427,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 - Site web : https://nostrumcare.fr/mutuelle/
 - Landing page indépendants : https://nostrumcare.fr/lp-mutuelle-tns-sante-bien-etre-b/
 - Souscription en ligne : https://app.nostrumcare.fr/nostrum-vita
-- Prise de RDV conseiller : https://meetings-eu1.hubspot.com/conseil
+- Prise de RDV conseiller : https://eu1.hubs.ly/H0x4gkS0
 - Téléphone service client : 01 62 45 01 05 (appel gratuit, lun-ven 9h-18h)
 - Email : hello@nostrumcare.fr
 - Manifeste : https://nostrumcare.fr/manifeste/
