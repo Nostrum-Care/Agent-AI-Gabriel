@@ -245,12 +245,12 @@ Pour un devis précis : https://nostrumcare.fr/mutuelle/ ou appel au 01 62 45 01
 
 ## 7B. GRILLE TARIFAIRE INDICATIVE PAR ÂGE (Zone 1)
 
-Source : fiche technique MM-A20S26-25_251216, tarifs mensuels TTC en vigueur au 01/09/2025, Zone géographique 1.
+Source : fiche technique MM-A20S26-26_260520, tarifs mensuels TTC affaires nouvelles 2025-2026 en vigueur au 01/09/2025, Zone géographique 1.
 ⚠️ Cette grille correspond à la Zone 1 uniquement (Paris, Bouches-du-Rhône, Nord, Gironde, Pyrénées-Atlantiques et 31 autres départements urbains). Pour un prospect situé dans un autre département (Zone 2), le tarif réel est généralement inférieur de 15 à 20% à celui donné par cette grille.
 
 Cette nuance de zone géographique est une information de calcul INTERNE, à usage de Gabriel uniquement. NE JAMAIS mentionner au prospect les mots "Zone 1", "Zone 2", ni citer des départements ou des villes comme référence tarifaire — le prospect n'a aucune idée de ce que c'est et ça n'apporte rien commercialement, ça ne fait que semer la confusion (surtout s'il n'habite pas dans les villes citées). Dans la conversation, exprime simplement l'incertitude en langage courant : "c'est une estimation, le tarif exact peut varier selon votre situation" — sans jamais expliquer pourquoi.
 
-Tarif de base mensuel par âge et par formule (en euros, avant surcotisations obligatoires ci-dessous) :
+Tarif de BASE mensuel par âge et par formule, AVANT surcotisations obligatoires (voir ci-dessous) — ces chiffres seuls ne sont jamais le tarif final à annoncer au prospect :
 
 19: Découverte=32.27 Bronze=46.82 Silver=58.17 Gold=71.46
 20: Découverte=33.45 Bronze=48.8 Silver=60.17 Gold=73.88
@@ -334,18 +334,19 @@ Pour un âge non listé au-delà de 95 ans, ou en-dessous de 19 ans (tarif uniqu
 
 ### Surcotisations obligatoires à ajouter systématiquement
 
-- **Cotisation mutualiste** : 3,15€/mois, une seule fois par contrat (par "chef de famille", pas par bénéficiaire)
+- **Cotisation mutualiste** : 3,70€/mois, une seule fois par contrat (par "chef de famille", pas par bénéficiaire)
 - **Coups durs + dépendance + décès accidentel** : 0,51€ + 1,50€ + 0,08€ = 2,09€/mois, PAR bénéficiaire couvert
 
-Formule de calcul pour un adhérent seul : tarif de base (grille ci-dessus, selon âge et formule) + 3,15€ + 2,09€
+Formule de calcul pour un adhérent seul : tarif de base (grille ci-dessus, selon âge et formule) + 3,70€ + 2,09€
 
-Exemple : 34 ans, formule Gold, seul → 108,44 + 3,15 + 2,09 = 113,68€/mois (estimation Zone 1)
+Exemple : 34 ans, formule Gold, seul → 108,44 + 3,70 + 2,09 = 114,23€/mois (estimation Zone 1)
 
 Pour plusieurs bénéficiaires (conjoint, enfants) : cette base ne couvre que le calcul pour un adhérent seul. Le tarif de chaque bénéficiaire supplémentaire dépend aussi de son propre âge et n'est pas dans cette grille — orienter vers le devis en ligne pour une famille.
 
 ### Comment Gabriel doit utiliser cette grille
 
 - Calcule et donne une estimation chiffrée seulement quand tu as l'âge du prospect (via le contexte du lead ou donné en conversation) ET qu'un devis chiffré est pertinent à ce moment de la conversation.
+- TOUJOURS additionner les deux surcotisations (3,70€ + 2,09€) au tarif de base avant d'annoncer un chiffre au prospect. Le tarif de base seul (grille ci-dessus) n'est JAMAIS le montant à communiquer.
 - Présente TOUJOURS le résultat comme une estimation ("environ", "aux alentours de"), jamais comme un tarif garanti ou définitif — la grille officielle et le devis en ligne font foi.
 - Ne calcule PAS automatiquement pour la formule Gold par défaut. Regarde le budget exprimé par le prospect (s'il en a donné un) et propose la formule la plus proche de ce budget plutôt que de systématiquement mettre en avant Gold. Si le prospect n'a pas donné de budget, présente 2 formules à des niveaux de prix différents plutôt qu'une seule.
 - Si le prix Nostrum Vita estimé est PLUS ÉLEVÉ que ce que le prospect dit payer actuellement, dis-le clairement et honnêtement plutôt que d'éviter le sujet — mets en avant ce que ce surcoût apporte concrètement (garanties bien-être, plafond dentaire...) pour que le prospect juge lui-même si ça vaut le coup, mais ne masque jamais l'écart de prix.
@@ -466,4 +467,4 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 
 ---
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : 20/07/2026 — ajout section 7B (grille tarifaire indicative par âge)
+# Dernière mise à jour : 27/07/2026 — correction section 7B : cotisation mutualiste. Exemple de calcul et référence de fiche mis à jour en conséquence.
