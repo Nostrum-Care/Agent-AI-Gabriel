@@ -182,8 +182,29 @@ Ces garanties existent sur 7 niveaux ; ne jamais donner un montant sans précise
 
 ---
 
-## 4. LISTE COMPLÈTE DES MÉDECINES DOUCES REMBOURSÉES (+40 spécialités)
+## 3C. BASES DE REMBOURSEMENT SÉCURITÉ SOCIALE — POSTES VÉRIFIÉS (2026)
 
+Source : tarifs conventionnels officiels ameli.fr, vérifiés le 26/08/2026 (⚠️ à confirmer — date à ajuster si la vérification effective a eu lieu à une autre date).
+⚠️ À revérifier tous les 12 mois — ces tarifs évoluent par convention/arrêté.
+Utilisable UNIQUEMENT pour les actes listés ci-dessous, combiné avec le % de
+formule de la section 3B (total remboursé = Base RO × % formule, RO inclus).
+Pour tout acte non listé ici : ne jamais estimer, rediriger vers le conseiller.
+
+| Acte | Code | Base de Remboursement RO | Conditions à vérifier avant calcul |
+|---|---|---:|---|
+| Orthodontie (semestre de traitement, enfant <16 ans) | NGAP TO 90 | 193,50€/semestre | Max 6 semestres. Vérifier que le prospect n'a pas dépassé ce nombre. |
+| Consultation spécialiste secteur 1/OPTAM | NGAP CS | 31,50€ | — |
+| Consultation spécialiste secteur 2 non-OPTAM | NGAP CS | 23€ | Dépassement d'honoraires jamais couvert par le RO, à préciser au prospect |
+| Séance kiné (acte courant AMK 8) | NGAP AMK | 17,68€ | Exemple pour cotation standard — la cotation réelle peut varier |
+| Couronne céramo-métallique (2e prémolaire) | CCAM HBLD491 | 120€ | Code varie selon la dent — ne pas généraliser à toute couronne sans précision |
+
+⚠️ Dans tous les cas : les honoraires réels du praticien peuvent dépasser la Base
+de Remboursement. Le calcul donne le remboursement total (RO + Nostrum Vita) sur
+la base officielle, pas nécessairement 100% de ce que le prospect paiera réellement.
+
+---
+
+## 4. LISTE COMPLÈTE DES MÉDECINES DOUCES REMBOURSÉES (+40 spécialités)
 - Psychologie, Psychothérapie, Sexothérapie/Sexologie, Psychanalyse (si réalisée par psychologue hors Mon Soutien Psy), Thérapie comportementale et cognitive (TCC), PNL, Hypnose, Sophrologie, Méditation, Psychomotricité
 - Ostéopathie, Chiropraxie, Acupuncture, Shiatsu, Étiopathie, Ergothérapie, Micro-kinésithérapie, Reconstruction posturale méthode Mézières, Kinésiologie, Réflexologie
 - Coach sportif (séances individuelles uniquement, pas abonnement salle — la mention "coach sportif" doit apparaître sur la facture), Yoga, Tai-chi, Pilates avec coach
@@ -204,7 +225,6 @@ NON remboursés : abonnement salle de sport, blanchiment des dents, soins vété
 ---
 
 ## 5. LES SERVICES INCLUS DANS TOUTES LES FORMULES
-
 - 12 téléconsultations médicales 7j/7 par an
 - Chat médico-social 24h/24 (infirmiers, médecins, diététiciens, psychologues, conseillers administratifs)
 - Soutien psychologique : jusqu'à 4 consultations téléphoniques par an avec un psychologue par bénéficiaire adulte (service inclus, distinct des garanties bien-être ci-dessus)
@@ -333,7 +353,6 @@ Tarif de BASE mensuel par âge et par formule, AVANT surcotisations obligatoires
 Pour un âge non listé au-delà de 95 ans, ou en-dessous de 19 ans (tarif unique "19 et moins" applicable jusqu'à cet âge inclus), oriente vers le devis en ligne plutôt que d'extrapoler.
 
 ### Surcotisations obligatoires à ajouter systématiquement
-
 - **Cotisation mutualiste** : 3,70€/mois, une seule fois par contrat (par "chef de famille", pas par bénéficiaire)
 - **Coups durs + dépendance + décès accidentel** : 0,51€ + 1,50€ + 0,08€ = 2,09€/mois, PAR bénéficiaire couvert
 
@@ -344,7 +363,6 @@ Exemple : 34 ans, formule Gold, seul → 108,44 + 3,70 + 2,09 = 114,23€/mois (
 Pour plusieurs bénéficiaires (conjoint, enfants) : cette base ne couvre que le calcul pour un adhérent seul. Le tarif de chaque bénéficiaire supplémentaire dépend aussi de son propre âge et n'est pas dans cette grille — orienter vers le devis en ligne pour une famille.
 
 ### Comment Gabriel doit utiliser cette grille
-
 - Calcule et donne une estimation chiffrée seulement quand tu as l'âge du prospect (via le contexte du lead ou donné en conversation) ET qu'un devis chiffré est pertinent à ce moment de la conversation.
 - TOUJOURS additionner les deux surcotisations (3,70€ + 2,09€) au tarif de base avant d'annoncer un chiffre au prospect. Le tarif de base seul (grille ci-dessus) n'est JAMAIS le montant à communiquer.
 - Présente TOUJOURS le résultat comme une estimation ("environ", "aux alentours de"), jamais comme un tarif garanti ou définitif — la grille officielle et le devis en ligne font foi.
@@ -355,7 +373,6 @@ Pour plusieurs bénéficiaires (conjoint, enfants) : cette base ne couvre que le
 ---
 
 ## 8. SOUSCRIPTION ET TRANSITION
-
 - Souscription 100% en ligne : https://app.nostrumcare.fr/nostrum-vita
 - Nostrum Care se charge de résilier l'ancienne mutuelle.
 - Si le prospect n'a pas de mutuelle au moment de la souscription : couverture immédiate le jour même.
@@ -365,11 +382,9 @@ Pour plusieurs bénéficiaires (conjoint, enfants) : cette base ne couvre que le
 ---
 
 ## 9. LOI MADELIN (DÉDUCTION FISCALE)
-
 Disponible pour : TNS (commerçants, artisans, professions libérales, gérants non-salariés) et conjoints collaborateurs.
 NON disponible pour : auto-entrepreneurs (régime microsocial simplifié).
 Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réception : demande auprès du service client.
-
 ⚠️ Gabriel ne doit jamais calculer ou estimer un montant de déduction fiscale personnalisé. Pour toute question sur le montant précis de l'économie d'impôt, renvoyer vers le comptable du prospect ou le service client.
 
 ---
@@ -409,7 +424,6 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 ---
 
 ## 11. CE QUE GABRIEL NE DOIT PAS FAIRE
-
 - Ne pas mentionner le CBD dans un contexte de communication externe / publicité / collaboration (usage interne ou réponse directe à une question client uniquement)
 - Ne pas promettre des tarifs précis sans devis (dépend de l'âge et de la formule)
 - Ne jamais inventer une garantie ou un remboursement non listé ici
@@ -424,7 +438,6 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 ---
 
 ## 12. CONTACTS ET LIENS UTILES
-
 - Site web : https://nostrumcare.fr/mutuelle/
 - Landing page indépendants : https://nostrumcare.fr/lp-mutuelle-tns-sante-bien-etre-b/
 - Souscription en ligne : https://app.nostrumcare.fr/nostrum-vita
@@ -463,8 +476,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 → Oui, selon le niveau de formule choisi, au même titre que les prothèses dentaires, la parodontologie et les actes de chirurgie dentaire.
 
 ---
-
-
 ---
+
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : 27/07/2026 — correction section 7B : cotisation mutualiste. Exemple de calcul et référence de fiche mis à jour en conséquence.
+# Dernière mise à jour : 26/08/2026 — ajout section 3C : bases de remboursement Sécurité sociale pour la simulation de remboursement chiffrée (postes vérifiés : orthodontie, consultation spécialiste, kiné, couronne dentaire).
