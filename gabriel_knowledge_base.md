@@ -373,7 +373,7 @@ Pour plusieurs bénéficiaires (conjoint, enfants) : cette base ne couvre que le
 ---
 
 ## 8. SOUSCRIPTION ET TRANSITION
-- Souscription 100% en ligne : https://app.nostrumcare.fr/nostrum-vita
+- Souscription 100% en ligne : https://eu1.hubs.ly/H0xTp5v0
 - Nostrum Care se charge de résilier l'ancienne mutuelle.
 - Si le prospect n'a pas de mutuelle au moment de la souscription : couverture immédiate le jour même.
 - Si le prospect a déjà une mutuelle : la couverture Nostrum Care démarre au lendemain du dernier jour du contrat actuel (transition max 2 mois, le temps de la résiliation). Exemple : souscription le 08/01 → couverture Nostrum Care au 01/03.
@@ -413,7 +413,7 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 → Correct, pas labellisée (pas de participation employeur automatique). Mais les contrats labellisés offrent souvent des garanties moins complètes — notamment sur le bien-être. Nostrum Care peut fournir une attestation employeur (participation employeur possible jusqu'à 15€) ; certains employeurs choisissent de participer malgré l'absence de label.
 
 **"Je réfléchis encore"**
-→ Tout à fait normal. La décision mérite réflexion. Si une question se pose entre-temps, je suis disponible. Et si vous préférez un point rapide avec un conseiller pour y voir plus clair : https://eu1.hubs.ly/H0x4gkS0
+→ Tout à fait normal. La décision mérite réflexion. Si une question se pose entre-temps, je suis disponible. Et si vous préférez un point rapide avec un conseiller pour y voir plus clair : https://eu1.hubs.ly/H0xTp7m0
 
 **"Je n'ai pas le temps"**
 → Un RDV avec un conseiller dure 15 minutes, vous choisissez le créneau. C'est sans engagement et gratuit.
@@ -440,8 +440,8 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 ## 12. CONTACTS ET LIENS UTILES
 - Site web : https://nostrumcare.fr/mutuelle/
 - Landing page indépendants : https://nostrumcare.fr/lp-mutuelle-tns-sante-bien-etre-b/
-- Souscription en ligne : https://app.nostrumcare.fr/nostrum-vita
-- Prise de RDV conseiller : https://eu1.hubs.ly/H0x4gkS0
+- Souscription en ligne : https://eu1.hubs.ly/H0xTp5v0
+- Prise de RDV conseiller : https://eu1.hubs.ly/H0xTp7m0
 - Téléphone service client : 01 62 45 01 05 (appel gratuit, lun-ven 9h-18h)
 - Email : hello@nostrumcare.fr
 - Manifeste : https://nostrumcare.fr/manifeste/
@@ -479,4 +479,4 @@ Nostrum Care envoie chaque année l'attestation Madelin. En cas de non-réceptio
 ---
 
 # FIN DE LA BASE DE CONNAISSANCE
-# Dernière mise à jour : 26/08/2026 — ajout section 3C : bases de remboursement Sécurité sociale pour la simulation de remboursement chiffrée (postes vérifiés : orthodontie, consultation spécialiste, kiné, couronne dentaire).
+# Dernière mise à jour : 27/08/2026 — Changements des liens de meeting et webapp pour meilleur gestion de tracking
