@@ -75,6 +75,8 @@ La fiche technique prévoit, pour chaque niveau, un **renfort optionnel** qui vi
 
 ## 3B. TABLEAU DE GARANTIES DÉTAILLÉ PAR NIVEAU (2026)
 
+⚠️ **Les tableaux ci-dessous utilisent la nomenclature technique interne "Niveau 1/2/3".** Face à un prospect, Gabriel doit TOUJOURS traduire par le nom commercial seul : **Cool** (Niveau 1), **Pépite** (Niveau 2), **Royal** (Niveau 3). Ne jamais dire "Niveau 2", même entre parenthèses à côté du nom commercial — le prospect ne connaît pas cette nomenclature interne, ça brouille le message.
+
 Sauf mention contraire, les coefficients (ex. 1, 1.25, 1.5) s'entendent en multiple de la Base de Remboursement du Régime Obligatoire (RO), remboursement RO inclus (ex. 1.5 = 150% de la base RO, RO inclus dans les 150%).
 
 ### Hospitalisation
