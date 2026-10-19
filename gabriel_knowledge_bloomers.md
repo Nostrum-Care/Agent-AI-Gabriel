@@ -1,5 +1,5 @@
 # BASE DE CONNAISSANCE — GABRIEL / BLOOMERS
-# Usage : System prompt ou fichier chargé dynamiquement pour le canal popup Devis (et tout futur canal Bloomers)
+# Usage : fichier chargé dynamiquement par les workflows n8n Gabriel Bloomers (canal popup Devis et canal WhatsApp)
 # À mettre à jour quand les offres, tarifs ou règles métier évoluent
 
 ---
@@ -732,13 +732,19 @@ Service client et app **communs avec Nostrum Vita** (confirmé) :
 - Email : hello@nostrumcare.fr
 - App : disponible sur App Store et Google Play (même app que Nostrum Vita — l'interface s'adapte au contrat détecté)
 
-⚠️ Propres à Bloomers, non fournis à ce stade — à compléter avant mise en production :
-- URL de la webapp Simulation/Devis/Souscription Bloomers
-- Site web ou landing page dédiée Bloomers (si distincte de nostrumcare.fr)
-Ne pas réutiliser les liens Nostrum Vita (eu1.hubs.ly, nostrumcare.fr/mutuelle/) pour orienter un prospect Bloomers vers une souscription — ce tunnel est spécifique à Nostrum Vita.
+**Liens propres à Bloomers — les SEULS liens à utiliser pour Bloomers :**
+- Souscription en ligne (webapp Bloomers) : https://bloomers.nostrumcare.fr/bloomers-sante?
+- Rendez-vous / demande de rappel avec un conseiller : https://meetings-eu1.hubspot.com/conseil/demande-de-rappel-nc-acv?utm_source=nostrumcare&utm_medium=ia-gabriel
+- Page de présentation du produit (landing page Bloomers) : https://nostrumcare.fr/bloomers-sante/
+
+**Règles d'usage des liens :**
+- Ne jamais réutiliser les liens Nostrum Vita (eu1.hubs.ly, nostrumcare.fr/mutuelle/) pour un prospect Bloomers — ce tunnel est spécifique à Nostrum Vita.
+- Ne jamais inventer ni modifier un lien. Recopier les URL ci-dessus telles quelles.
+- **Canal WhatsApp** : profil simple et chaud (besoin clair, pas d'objection bloquante) → lien de souscription en premier, seule action du message. Profil hésitant ou complexe (couple ou famille, objections, budget flou) → lien de rendez-vous en premier, avec la souscription en option secondaire dans le même message. La page de présentation sert uniquement quand le prospect veut mieux découvrir l'offre avant de décider. Un seul lien principal par message.
+- **Canal popup (page Devis)** : le visiteur est déjà dans le tunnel de souscription. Ne jamais lui renvoyer le lien de souscription ni la page de présentation. Le lien de rendez-vous peut être proposé uniquement s'il demande à parler à un conseiller.
 
 ---
 
 # FIN DE LA BASE DE CONNAISSANCE — BLOOMERS
 # Construite le 24/09/2026 à partir de : document de marque Notion (positionnement, personas, objections) + fiche technique MM-A26S14_V260826 (garanties chiffrées + grilles tarifaires par âge/zone, Niveaux 1-3)
-# Noms de formules, contacts communs et tarifs confirmés/intégrés le 24/09/2026. Restent à compléter : liens propres à la webapp Bloomers (section 12), mode de calcul de la remise couple (section 7)
+# Noms de formules, contacts communs et tarifs confirmés/intégrés le 24/09/2026. Liens propres à Bloomers (souscription, rendez-vous, page produit) ajoutés le 19/10/2026. Reste à compléter : mode de calcul de la remise couple (section 7)
