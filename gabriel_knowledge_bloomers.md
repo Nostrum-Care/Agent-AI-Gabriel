@@ -71,7 +71,7 @@ Ce canal n'est pas un FAQ passif. Le prospect a déjà un devis calculé sous le
 
 ## 3. LES GARANTIES — VUE D'ENSEMBLE
 
-Source : Fiche technique officielle Bloomers, gamme "BOOMER", n° MM-A26S14_V260826 (Niveau 1 / Niveau 2 / Niveau 3). **Seule source chiffrée autorisée — ne jamais inventer ni extrapoler un montant absent de cette base.**
+Source : Fiche technique officielle Bloomers, gamme "BOOMER", n° MM-A26S14_V260625 (Niveau 1 / Niveau 2 / Niveau 3). **Seule source chiffrée autorisée — ne jamais inventer ni extrapoler un montant absent de cette base.**
 
 Bloomers couvre trois blocs :
 
@@ -194,9 +194,16 @@ Précisions à connaître :
 - *Abonnement prévention et lien social* : participation à un abonnement qui favorise la santé, le bien-être ou le lien social. Exemples : club de sport ou de remise en forme, association, cours collectifs, ateliers ou conférences de prévention, activités culturelles ou de loisirs (club de lecture, bridge, ateliers créatifs). Pour un abonnement de salle de sport précis, orienter vers le service client.
 - *Continuité de l'activité sexuelle* : traitements sur prescription médicale, la prescription est obligatoire (par exemple le Viagra ou les gels intimes).
 - *Mon Soutien Psy* : 12 séances par an prises en charge, indépendamment du forfait ci-dessus.
-- *Psychologue hors dispositif Mon Soutien Psy* : ne confirme ni n'infirme un remboursement. Oriente vers le service client ou un conseiller.
+- *Psychologue hors dispositif Mon Soutien Psy* : ne figure pas dans la liste des spécialités du forfait. Ne dis jamais qu'il est remboursé. Ce qui est remboursé : le psychologue dans le cadre de Mon Soutien Psy, la thérapie comportementale et cognitive (TCC), la sexothérapie, la thérapie de couple, l'hypnose, la sophrologie, la méditation et la psychologie du deuil (voir sections 3B et 4).
 
 **Renfort Prévention/Bien-être (option) :** plafond global +25€ à +50€ selon niveau, vaccins +20€ à +50€, médecines douces et psychologie du deuil +15€/séance supplémentaire selon niveau.
+
+### Conditions et limites à connaître (fiche technique)
+- Chambre particulière avec hébergement : limitée à 30 jours par an en rééducation fonctionnelle, maison de repos et psychiatrie ; exclue en maison de convalescence et en moyen séjour.
+- Forfait connectivité : abonnement TV, téléphone fixe ou internet dans la chambre, facturé par l'établissement ; ne s'applique pas en centre de rééducation (SSR), convalescence, maison de repos et cure thermale.
+- Dentaire : les implants, la parodontologie et les actes avec dépassement d'honoraires non pris en charge par le RO sont soumis à un accord préalable du service de conseil dentaire de la mutuelle (devis, radios, bilan parodontal).
+- Cure thermale : remboursement limité aux frais d'hébergement et de transport, dans la limite du tarif de la Sécurité sociale.
+- Les prestations (services, bien-être) sont versées par année civile et par bénéficiaire.
 
 ### Garantie facultative — Pack Obsèques (capital additionnel)
 En plus de la participation forfaitaire de 500€ incluse dans toutes les formules (bloc services), un capital obsèques supplémentaire est disponible en option, à choisir parmi : 500€ / 1 000€ / 1 500€ / 2 000€ / 2 500€ / 3 000€. Nécessite un devis séparé — ne jamais présenter comme inclus dans une formule standard.
@@ -226,7 +233,7 @@ Chaque séance : 35€ max, quel que soit le niveau, dans la limite du plafond g
 - Dépendance totale : capital 2 000€
 - Soutien psychologique : jusqu'à 4 consultations téléphoniques par an avec un psychologue (service inclus, distinct de Mon Soutien Psy et du forfait bien-être)
 - Livraison de médicaments : à domicile, partout en France, quand le prospect ne peut pas sortir
-- Soins à l'étranger : séjours de moins de 3 mois, sous réserve d'une prise en charge par le régime obligatoire. Ne cite aucun plafond à l'étranger : oriente vers le service client
+- Soins à l'étranger : la garantie s'exerce en France métropolitaine, en Corse et dans les DROM. À l'étranger : séjour temporaire de moins de 3 mois, soins pris en charge par un régime obligatoire français ou européen (carte européenne, Union européenne, Espace économique européen, Suisse). La mutuelle prend en charge le ticket modérateur, avec justificatifs (la traduction reste à la charge de l'adhérent). Limites : hospitalisation 100€ par jour, 1 500€ par an ; dentaire dans les pays frontaliers (Allemagne, Belgique, Luxembourg, Italie, Espagne) selon les garanties du contrat, ailleurs 200€ par prothèse ou implant, 1 000€ par an ; optique 100€ par équipement ou 50€ par paire de lentilles ; audioprothèse 100€ par oreille
 - Accident (décès accidentel) : capital 750€
 - Frais d'obsèques : participation forfaitaire 500€
 - Assistance 7j/7, 24h/24 par téléphone
@@ -262,7 +269,7 @@ Chaque séance : 35€ max, quel que soit le niveau, dans la limite du plafond g
 Source : Fiche technique MM-A26S14_V260826, tarifs TTC mensuels au 05/06/2026, effet 2026-2027. Ces chiffres sont la seule source autorisée pour un chiffrage précis — ne jamais en inventer d'autres.
 
 ### Comment est déterminée la zone géographique
-Le tarif dépend du département de résidence, qui détermine une zone (1 à 4, + un régime particulier Alsace-Moselle). Cette correspondance département → zone est une donnée volumineuse (plusieurs milliers de lignes) : **elle ne doit pas être recopiée dans cette base de connaissance ni demandée à Gabriel de la déduire par lui-même.** La résolution département → zone doit se faire en amont (recherche dans une table dédiée côté n8n/Supabase, ou reprise directement du résultat déjà calculé par le simulateur Bloomers), et c'est le **numéro de zone déjà résolu** qui doit arriver dans le contexte de Gabriel — jamais un nom de département à interpréter par le modèle.
+Le tarif dépend du département de résidence : zone 1 à 4, et régime Alsace-Moselle pour la Moselle (57), le Bas-Rhin (67) et le Haut-Rhin (68). La correspondance concerne environ 100 départements (métropole, Corse, DROM) et est résolue automatiquement par le système à partir du code postal. **Gabriel ne déduit jamais une zone lui-même.** Quand la zone est résolue, la grille de ce prospect figure dans le contexte du lead. Quand elle ne l'est pas : si l'âge est connu, demande le code postal en une phrase courte, sans prononcer le mot « zone » ; si la zone reste introuvable après sa réponse (territoire non couvert, par exemple une collectivité d'outre-mer), ne donne aucun montant et oriente vers un conseiller.
 
 Comme pour Nostrum Vita : ne jamais mentionner au prospect les mots "Zone 1/2/3/4" ni citer de département comme référence tarifaire — exprimer l'incertitude en langage courant si besoin ("c'est une estimation, le tarif exact peut varier selon votre situation").
 
@@ -807,5 +814,5 @@ Ce sont des repères, pas des textes à recopier. Reformule en 2 à 3 phrases, s
 ---
 
 # FIN DE LA BASE DE CONNAISSANCE — BLOOMERS
-# Construite le 24/09/2026 à partir de : document de marque Notion (positionnement, personas, objections) + fiche technique MM-A26S14_V260826 (garanties chiffrées + grilles tarifaires par âge/zone, Niveaux 1-3)
-# Noms de formules, contacts communs et tarifs confirmés/intégrés le 24/09/2026. Liens propres à Bloomers (souscription, rendez-vous, page produit) ajoutés le 19/10/2026. Mise à jour le 09/11/2026 : services détaillés, délais et fonctionnement au quotidien, objections prix et notoriété, FAQ WhatsApp, règles tarifs complémentaires. Reste à compléter : mode de calcul de la remise couple, mécanisme de la gratuité dès le 3e enfant, psychologue hors Mon Soutien Psy, plafonds des soins à l'étranger (section 7)
+# Construite le 24/09/2026 à partir de : document de marque Notion (positionnement, personas, objections) + fiche technique MM-A26S14_V260625 (garanties chiffrées, zones géographiques) + fiche technique MM-A26S14_V260826 (grilles tarifaires par âge/zone), Niveaux 1-3
+# Noms de formules, contacts communs et tarifs confirmés/intégrés le 24/09/2026. Liens propres à Bloomers (souscription, rendez-vous, page produit) ajoutés le 19/10/2026. Mise à jour le 09/11/2026 : services détaillés, délais et fonctionnement au quotidien, objections prix et notoriété, FAQ WhatsApp, règles tarifs complémentaires. Reste à compléter : mode de calcul de la remise couple, mécanisme de la gratuité dès le 3e enfant, (section 7). Zones, soins à l'étranger, psychologue hors Mon Soutien Psy et conditions des garanties vérifiés sur la fiche technique le 09/11/2026
