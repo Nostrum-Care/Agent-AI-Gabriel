@@ -78,7 +78,7 @@ Vaccins non remboursés, +40 médecines douces (voir section 4), psychologie du 
 Téléconsultation, chat médico-social, protection juridique, coups durs, second avis médical, assistance à domicile, club avantages, dépendance, capital décès accidentel, frais d'obsèques (participation forfaitaire), forfait connectivité en hospitalisation.
 
 ### Le mécanisme des "Renforts"
-Pour chaque formule (Cool, Pépite, Royal), quatre renforts optionnels viennent augmenter certaines garanties au-delà de la formule de base : **hospitalisation**, **soins courants**, **optique et dentaire** (un seul renfort pour les deux postes) et **bien-être**. Le prospect garde sa formule et renforce uniquement le poste qui compte pour lui, plutôt que de changer de formule. Le coût d'un renfort est donné uniquement par l'outil de calcul de tarif, jamais de mémoire. Le détail des garanties ajoutées est dans la section 3B ("Renfort ... (option)"). Aucun renfort audition n'est proposé à la vente : pour l'audition, orienter vers un conseiller.
+Pour chaque formule (Cool, Pépite, Royal), quatre renforts optionnels viennent augmenter certaines garanties au-delà de la formule de base : **hospitalisation**, **soins courants**, **optique et dentaire** (un seul renfort pour les deux postes) et **prévention et bien-être**. Le prospect garde sa formule et renforce uniquement le poste qui compte pour lui, plutôt que de changer de formule. Le coût d'un renfort est donné uniquement par l'outil de calcul de tarif, jamais de mémoire. Le détail des garanties ajoutées est dans la section 3B ("Renfort ... (option)"). Aucun renfort audition n'est proposé à la vente : pour l'audition, présenter la garantie de la formule.
 
 ---
 
