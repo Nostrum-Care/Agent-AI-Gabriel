@@ -1,6 +1,6 @@
 ---
 titre: Base de connaissances RC Pro Nostrum Care (assureur Hiscox)
-version: 0.2-brouillon
+version: 0.3-brouillon
 date: 2026-11-26
 usage: Gabriel (assistant WhatsApp / chat) — réponses aux prospects et clients RC Pro
 langue: fr
@@ -46,6 +46,8 @@ Chaque section porte une étiquette de fiabilité : `[HISCOX-FORMATION]`, `[HISC
 - Le contrat est un contrat d'assurance **« tous risques sauf »** : ce qui n'est pas exclu est couvert.
 
 ## 2. L'offre RC Pro Nostrum Care `[MARKETING]`
+
+**Nom commercial : Nostrum Pro.** Face à un prospect, dire « Nostrum Pro » ou « la RC Pro ». Le site vitrine annonce « à partir de 19 €/mois », une couverture immédiate et une souscription en environ 5 minutes. Secteurs mis en avant : tech et informatique, communication et événementiel, consulting en entreprise, culture, médias et journalisme, métiers du bien-être, autres services (services à la personne, taxi et VTC, formation).
 
 Argumentaire officiel :
 
@@ -222,6 +224,7 @@ Exemples illustratifs fournis par Hiscox, non contractuels.
 Générée depuis la Calculette Hiscox (Tarificateur RC Pro version Classique v0726), majoration de 10 % incluse. Prix « à partir de », jamais un devis. Elle se régénère avec le script `rcp_generate_grid.py` à chaque nouvelle version de la Calculette.
 
 ### Règle d'usage pour Gabriel
+- Ne jamais annoncer moins de 19 € par mois : c'est le prix d'appel du site vitrine, et la grille ci-dessous affiche 17 € dans quelques cases (à confirmer, voir section 13).
 
 - Ne donner qu'une fourchette « à partir de », arrondie, avec la formule : « le prix exact dépend de votre activité et de votre chiffre d'affaires, vous l'avez en 2 minutes sur le simulateur ».
 - Valable uniquement si le chiffre d'affaires annuel est **≤ 140 000 €** (en dessous, le plancher de la Calculette s'applique à toutes les activités). Au-dessus : renvoyer vers le simulateur ou un conseiller, sans chiffre.
@@ -288,7 +291,7 @@ SECU : le plancher n'est garanti que jusqu'à 180 000 € de chiffre d'affaires.
 
 ## 13. Points ouverts et conflits à trancher avant la mise en production
 
-1. **Deux numéros de téléphone contradictoires** : 01 70 26 03 45 (lundi-vendredi 9h-19h) dans la présentation RC Pro, et 08 00 94 29 21 (9h-12h / 13h30-17h) dans l'e-mail de bienvenue. L'assistant n'en donne aucun tant que ce n'est pas tranché.
+1. **Téléphone : résolu.** Le service client est commun à tous les produits (section 15). Les deux autres numéros trouvés dans les documents RC Pro ne sont pas utilisés.
 2. **Cibles marketing contre exclusions Hiscox** : la fiche « Target Audience » cite avocats, comptables, agents immobiliers et professionnels de santé comme cible « industries réglementées ». Ils sont exclus en délégation (section 6). L'assistant suit les exclusions Hiscox.
 3. **Statistiques de marché sans source** : « 49 % des indépendants ne sont pas assurés », « 13 % ne se prononcent pas », « plus de 60 % des freelances ont rencontré des problèmes de RC » (la source est marquée « source ? » dans le brouillon). La fiche « Discours » dit par ailleurs « 49 % de professionnels ont des métiers réglementés », ce qui attribue le même chiffre à deux réalités différentes. Aucun de ces chiffres n'est utilisable.
 4. **Déclaration de sinistre et protection juridique** : contacts (e-mail, téléphone) non renseignés.
@@ -300,6 +303,7 @@ SECU : le plancher n'est garanti que jusqu'à 180 000 € de chiffre d'affaires.
 10. **Coefficient mensuel 1,232** de la grille (section 12) : vient des règles de bordereau, à confirmer sur un contrat mensuel réel.
 11. **Palier TECH 100 k€ / CA ≤ 70 k€** : la Calculette n'applique pas la majoration de 10 % (formule du minimum). À confirmer avec Hiscox si c'est voulu.
 12. **Niveau de garantie proposé par le parcours** (par défaut et en choix) : à aligner avec la grille.
+14. **Prix d'appel** : le site annonce « à partir de 19 €/mois » alors que la grille (coefficient mensuel 1,232 non confirmé) donne 17 € pour certaines activités et garanties de 50 000 €. À rapprocher d'un prix réel.
 13. **Fichiers vides ou non exploitables** : le compte rendu de synchronisation RC Pro est vide ; la fiche « Discours » est surtout des maquettes de landing page.
 
 ## 14. Glossaire
@@ -314,3 +318,11 @@ SECU : le plancher n'est garanti que jusqu'à 180 000 € de chiffre d'affaires.
 - **DINC** : dommages immatériels non consécutifs.
 - **Préposé** : personne agissant pour le compte de l'assuré (salarié, collaborateur).
 - **Famille d'activités** : TECH, MAC, MAN, MISC, MEDIA / MIC, TAG, SECU.
+
+## 15. Contacts et liens `[MARKETING]`
+
+- Service client, commun à tous les produits Nostrum Care : 01 62 45 01 05 (appel gratuit, du lundi au vendredi de 9h à 18h), hello@nostrumcare.fr
+- Simulation et souscription en ligne : https://pro.nostrumcare.fr/
+- Rendez-vous ou rappel d'un conseiller : https://meetings-eu1.hubspot.com/conseil/demande-de-rappel-nc-acv?utm_source=nostrumcare&utm_medium=ia-gabriel
+- Page de présentation : https://nostrumcare.fr/responsabilite-civile-professionnelle/
+- Ne jamais inventer ni modifier un lien. Ne jamais utiliser les liens des mutuelles pour Nostrum Pro.
